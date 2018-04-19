@@ -12,9 +12,3 @@ while j <= x:
         if j <= x:
             print(s[i], n)
             i += 1
-
-
-
-
-
-
